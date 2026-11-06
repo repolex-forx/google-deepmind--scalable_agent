@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/scalable_agent/commit/6c0c8a701990fab9053fb338ede9c915c18fa2b1",
       "git:hexsha": "6c0c8a701990fab9053fb338ede9c915c18fa2b1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
