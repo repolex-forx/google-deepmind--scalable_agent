@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "scalable_agent",
+  "versions": [
+    {
+      "commit": "6c0c8a701990fab9053fb338ede9c915c18fa2b1",
+      "tag": "",
+      "parsed_at": "2026-11-06T07:44:40.117150+00:00"
+    }
+  ]
+}
